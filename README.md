@@ -3,7 +3,8 @@
 ## Overview
 
 **Domain Name Finder** is a web application that helps users generate and search for domain names based on keywords. The app provides real-time suggestions and is built using modern web technologies, offering a responsive and user-friendly interface.
-![Screenshot 2024-09-01 at 3 45 26 PM](https://github.com/user-attachments/assets/a7db298e-eb1f-4db4-a64f-2378943c003f)
+![image](https://github.com/user-attachments/assets/c29c2fd9-caac-4ee6-90cc-913d8a225ff7)
+
 
 
 ## Features
